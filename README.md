@@ -1,3 +1,7 @@
-Aprendendo a mexer com o GitHub e com o Git.
+# Aprendendo a mexer com Git e GitHub...
 
-Agora eu sei mandar codigo para o GitHub.
+##
+
+### Agora eu sei mandar código para o GitHub!!
+
+##
